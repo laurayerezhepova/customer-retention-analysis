@@ -1,10 +1,10 @@
 # customer-retention-analysis
 Customer retention, purchasing behavior, and RFM segmentation analysis using Python, statistical testing, and Power BI.
+
+
+
 ## Project Overview
 # Customer Retention & Value Analysis
-
-## Project Overview
-
 An end-to-end data analytics project focused on customer retention, repeat purchase behavior, and customer lifetime value using the Online Retail II dataset. The project explores how first-purchase characteristics relate to customer retention, examines purchasing patterns, and segments customers based on frequency and monetary value.
 
 ## Business Objectives
